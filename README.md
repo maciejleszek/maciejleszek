@@ -59,7 +59,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maciejleszek&layout=compact&theme=radical"
     alt="GitHub Stats"
