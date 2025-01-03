@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I am Maciek :)</h1>
 
 <h3 align="center">
-  🚀 Software Engineering Intern at CBK PAN
+  🚀 Software Engineer Intern at CBK PAN
 </h3>
 <br>
 
