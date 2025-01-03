@@ -32,6 +32,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=openaigym&logoColor=white&style=flat-square" />
+  <img alt="Robotics" src="https://img.shields.io/badge/-Robotics-4CAF50?logo=arduino&logoColor=white&style=flat-square" />
+  <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat-square" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
