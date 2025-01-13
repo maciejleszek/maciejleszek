@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I am Maciek :)</h1>
+<h1>👋 Hi, I am Maciek :)</h1>
 
-<h3 align="center">
+<h3>
   🚀 Software Engineer Intern at CBK PAN
 </h3>
 <br>
