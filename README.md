@@ -1,7 +1,7 @@
 <h1>👋 Hi, I am Maciek :)</h1>
 
 <h3>
-  🚀 Software Engineer Intern at CBK PAN
+  🚀 Assistant (to the) Project Manager at CBK PAN
 </h3>
 <br>
 
