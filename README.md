@@ -1,9 +1,6 @@
-<h1>👋 Hi, I am Maciek :)</h1>
+<h3>👋 Hi, I am Maciek :)</h3>
 
-<h3>
-  🚀 Assistant (to the) Project Manager at CBK PAN
-</h3>
-<br>
+<h4>Currently learning to become a Data Scientist</h4>
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
