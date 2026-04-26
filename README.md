@@ -5,9 +5,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img alt="Data Analysis" src="https://img.shields.io/badge/-Data%20Analysis-FF6F00?logo=databricks&logoColor=white&style=flat-square" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?logo=openaigym&logoColor=white&style=flat-square" />
-  <img alt="Robotics" src="https://img.shields.io/badge/-Robotics-4CAF50?logo=arduino&logoColor=white&style=flat-square" />
-  <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white&style=flat-square" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
 ---
